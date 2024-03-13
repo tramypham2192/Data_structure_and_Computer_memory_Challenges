@@ -12,3 +12,4 @@ console.log(sumToZero([1, 2, 3]));
 console.log(sumToZero([2, 3, -2])); 
 
 // RUNTIME is O(n) as the code contains only one loop to iterate through all elements of the array
+// SPACE COMPLEXITY is 0(1) as no data structured created

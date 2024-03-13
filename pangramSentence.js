@@ -19,4 +19,5 @@ console.log(pangramSentence("I like cats, but not mice"));
 console.log(pangramSentence("The quick brown fox jumps over the lazy dog!"));
 
 // RUNTIME is O(n) as there is only one loop to iterate through all elements of the array
+// SPACE COMPLEXITY is 0(n) as there is 1 data structured created
 

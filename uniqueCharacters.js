@@ -16,3 +16,4 @@ console.log(uniqueCharacters("Monday"));
 console.log(uniqueCharacters("Moonday")); 
 
 // RUNTIME is O(n) as there is only one loop iterating through all characters of the string
+// SPACE COMPLEXITY is 0(n) as there is 1 data structured created
